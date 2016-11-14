@@ -1,0 +1,1 @@
+imagemagick = Npm.require('imagemagick-native');
